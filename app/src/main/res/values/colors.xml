@@ -18,20 +18,20 @@
     <color name="primary_color">#4A312A</color>
 
     <!-- Primary dark color of the app (shown in the status bar) -->
-    <color name="primary_dark_color">#2F1D1A</color>
+    <color name="primary_dark_color">#0b0302</color>
 
     <!-- Background color for app -->
-    <color name="tan_background">#FFF7DA</color>
+    <color name="tan_background">#fafaf1</color>
 
     <!-- Background color for the numbers category -->
-    <color name="category_numbers">#FD8E09</color>
+    <color name="category_numbers">#86f586</color>
 
     <!-- Background color for the family members category -->
-    <color name="category_family">#379237</color>
+    <color name="category_family">#7ef4f4</color>
 
     <!-- Background color for the colors category -->
-    <color name="category_colors">#8800A0</color>
+    <color name="category_colors">#e093ed</color>
 
     <!-- Background color for the phrases category -->
-    <color name="category_phrases">#16AFCA</color>
+    <color name="category_phrases">#f56573</color>
 </resources>
